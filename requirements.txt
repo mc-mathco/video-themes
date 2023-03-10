@@ -1,0 +1,6 @@
+streamlit
+pandas
+whisper
+gpt_index
+openai
+os
